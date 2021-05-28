@@ -1,18 +1,8 @@
 ### Hi there 👋
-<!--
-**ChristyanS/ChristyanS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on survival shooter game
+- 🌱 I’m currently learning Unity 3D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ### Languages and Tools:
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" /></a>
@@ -20,8 +10,10 @@ Here are some ideas to get you started:
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png" /></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://image.flaticon.com/icons/png/512/919/919832.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<br />
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png"/>
 
+<br />
+ 
 ### Softwares:
 
 <a href="https://www.jetbrains.com/pt-br/rider/" target="_blank"><img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" /></a>
