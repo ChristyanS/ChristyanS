@@ -6,9 +6,9 @@
 
 ### Languages and Tools:
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="26px" src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" /></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://image.flaticon.com/icons/png/512/226/226777.png" /></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png" /></a>
-<a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://image.flaticon.com/icons/png/512/919/919832.png" /></a>
+<a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://www.alura.com.br/assets/api/cursos/512/typescript-evoluindo-javascript.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png"/>
 
