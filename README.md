@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on survival shooter game
+- 🔭 I’m currently working on 3d platform game [Albardo](https://github.com/ChristyanS/Albardo)
 - 🌱 I’m currently learning Unity 3D
 
 
@@ -10,7 +10,8 @@
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/robsonkades/vscode-express-snippets/master/images/node.png" /></a>
 <a href="https://www.typescriptlang.org" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://www.alura.com.br/assets/api/cursos/512/typescript-evoluindo-javascript.png" /></a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png"/>
+<a href="" target="_blank"> <img align="left" alt="git" width="26px" src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png"/>
+<a href="https://www.mongodb.com/pt-br" target="_blank"> <img align="left" alt="git" width="26px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
 
 <br />
  
