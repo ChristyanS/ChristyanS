@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 3d platform game [Albardo](https://github.com/ChristyanS/Albardo)
+- 🔭 I’m currently working on 3d platform game
 - 🌱 I’m currently learning Unity 3D
 
 
